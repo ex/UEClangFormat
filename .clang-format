@@ -38,7 +38,8 @@ BreakBeforeConceptDeclarations: true
 BreakConstructorInitializers: BeforeColon
 BreakStringLiterals: false
 ColumnLimit: 0
-Cpp11BracedListStyle: true
+Cpp11BracedListStyle: false
+EmptyLineAfterAccessModifier: Leave
 EmptyLineBeforeAccessModifier: LogicalBlock
 IndentCaseBlocks: false
 IndentCaseLabels: true
